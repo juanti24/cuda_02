@@ -1,0 +1,15 @@
+# ninja log v5
+6	723	7422334004920991	CMakeFiles/cuda_02.dir/main.cpp.obj	96657322af3e5f02
+3	1993	7422334017552267	CMakeFiles/cuda_02.dir/kernel.cu.obj	5c2febafa8755549
+1994	2837	7422334026006051	CMakeFiles/cuda_02.dir/cmake_device_link.obj	d774baf003eb9a84
+3	353	7422335053689010	CMakeFiles/cuda_02.dir/main.cpp.obj	96657322af3e5f02
+354	1223	7422335062364242	CMakeFiles/cuda_02.dir/cmake_device_link.obj	d774baf003eb9a84
+3	1376	7422335323322441	CMakeFiles/cuda_02.dir/kernel.cu.obj	5c2febafa8755549
+1376	2244	7422335332047067	CMakeFiles/cuda_02.dir/cmake_device_link.obj	d774baf003eb9a84
+2244	2599	7422335335450931	cuda_02.exe	82f0893dd15389dc
+3	356	7422339054405416	CMakeFiles/cuda_02.dir/main.cpp.obj	96657322af3e5f02
+357	1251	7422339063314193	CMakeFiles/cuda_02.dir/cmake_device_link.obj	d774baf003eb9a84
+1251	1375	7422339064352505	cuda_02.exe	82f0893dd15389dc
+3	353	7422341038412003	CMakeFiles/cuda_02.dir/main.cpp.obj	96657322af3e5f02
+354	1214	7422341046981691	CMakeFiles/cuda_02.dir/cmake_device_link.obj	d774baf003eb9a84
+1214	1406	7422341048649638	cuda_02.exe	82f0893dd15389dc
